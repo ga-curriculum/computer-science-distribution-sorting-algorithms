@@ -1,43 +1,31 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![Distribution Sorting Algorithms](./assets/tktk-hero.png)
 
-## About
+## Overview
 
 tktk Write a short but descriptive summary of the content in this module. Introduce the lab. What will the students build in this lab?
 
+There are two components to this lesson:
+
+  1. [Setup](./setup/README.md)
+  2. [Exercise](./exercise/README.md)
+
+## Learning Objectives
+
+  - Explain how bucket and radix sorts work.
+  - Identify scenarios in which bucket and radix sorts should be used.
+  - Implement bucket sort.
+
 ## Prerequisites
 
-- tktk
+  - Big O Notation
+  - Introduction to Sorting
 
-## Time to complete
+## Duration
 
-Estimated time to complete core lab exercise: **tktk min**
+2 hours total:
 
-## Starter code
-
-tktk If there is not a starter code repo that students will fork and clone to start this lab, then this section and all of its content should be removed.
-
-🟢 [Starter code](#tktk-repository-for-starter-code)
-
-## Content
-
-- [Setup](./setup/README.md)
-- [Exercise](./exercise/README.md)
-
-## Level Up
-
-🚀 [Level Up](./level-up/README.md) tktk - remove section if no level ups exist.
-
-## Solution code
-
-🏁 [tktk Solution code](#tktk-external-repo-link-url)
-
-## Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](#tktk-deployed-app-url)
-
-🐙 [Repository](#tktk-repository-for-deployed-app)
+  - 1 hour lecture
+  - 1 hour exercise
 
 ## Internal resources
 
