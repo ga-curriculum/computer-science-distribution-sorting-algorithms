@@ -6,7 +6,7 @@ tktk Write a short but descriptive summary of the content in this module. Introd
 
 There are two components to this lesson:
 
-  1. [Setup](./setup/README.md)
+  1. [Setup](./intro-to-distribution-sorts/README.md)
   2. [Exercise](./exercise/README.md)
 
 ## Learning Objectives
