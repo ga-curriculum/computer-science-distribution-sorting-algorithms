@@ -1,1 +1,1 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![Computer Science - Distribution Sorting Algorithms](./assets/hero.png)

@@ -1,4 +1,4 @@
-# ![Distribution Sorting Algorithms - Exercise](./assets/hero.png)
+# ![Computer Science - Distribution Sorting Algorithms - Exercise](./assets/hero.png)
 
 ## Time to Practice
 

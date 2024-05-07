@@ -1,4 +1,4 @@
-# ![Distribution Sorts](./assets/hero.png)
+# ![Computer Science - Distribution Sorting Algorithms - Distribution Sorts](./assets/hero.png)
 
 # Distribution Sorts
 
