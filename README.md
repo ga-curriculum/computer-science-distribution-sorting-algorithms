@@ -2,30 +2,46 @@
 
 ## Overview
 
-tktk Write a short but descriptive summary of the content in this module. Introduce the lab. What will the students build in this lab?
+This lesson covers two sorting algorithms that use the distribution sort method: bucket sort and radix sort. This is different than the other sorting algorithms we've met so far, which use the comparison sorting method.
 
-There are two components to this lesson:
+### Prerequisites
 
-  1. [Introduction to Distribution Sorts](./intro-to-distribution-sorts/README.md)
-  2. [Exercise](./exercise/README.md)
+- Big O Notation
+- Intro to Sorting Algorithms
+- Basic Sorting Algorithms
 
-## Learning Objectives
+### Learning Objectives
 
-  - Explain how bucket and radix sorts work.
-  - Identify scenarios in which bucket and radix sorts should be used.
-  - Implement bucket sort.
+By the end of this module, learners will be able to:
 
-## Prerequisites
+- Explain how bucket sort and radix sort work.
+- Identify scenarios in which bucket sort and radix sort should be used.
+- Describe the time complexity of bucket sort.
+- Implement bucket sort.
 
-  - Big O Notation
-  - Introduction to Sorting
+## Content
 
-## Duration
+There are two components to this module:
 
-2 hours total:
+1. Lesson: [Distribution Sorting Algorithms](./lesson/README.md)
+2. Exercise: [Implementing Bucket Sort](https://git.generalassemb.ly/modular-curriculum-all-courses/distribution-sorting-algorithms-starter-code)
 
-  - 1 hour lecture
-  - 1 hour exercise
+## Solution Code
+
+- Exercise Solution: [Bucket Sort](./solution/README.md)
+
+### Time to Complete
+
+1.5 hours total:
+
+- 0.5 hour - Distribution Sorting Algorithms Lesson
+- 1 hour - Implementing Bucket Sort Exercise
+
+## Additional Resources
+
+- A [nice visualization of bucket sort](https://www.cs.usfca.edu/~galles/visualization/BucketSort.html): An interactive tool for visualizing bucket sort.
+- A [similar visualization for radix sort](https://www.cs.usfca.edu/~galles/visualization/RadixSort.html): An interactive tool for visualizing radix sort.
+- Check out how [radix sort is implemented](https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/sorting/radix-sort): A GitHub repository showcasing the implementation of radix sort (Note: This won't be covered in the lesson).
 
 ## Internal resources
 
