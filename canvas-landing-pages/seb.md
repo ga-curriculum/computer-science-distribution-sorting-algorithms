@@ -1,4 +1,4 @@
-# ![Computer Science - Distribution Sorting Algorithms](./assets/hero.png)
+# ![Computer Science - Distribution Sorting Algorithms](../assets/hero.png)
 
 ## Overview
 
