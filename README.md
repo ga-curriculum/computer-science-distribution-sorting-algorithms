@@ -24,7 +24,7 @@ By the end of this module, learners will be able to:
 There are two components to this module:
 
 1. Lesson: [Distribution Sorting Algorithms](./lesson/README.md)
-2. Exercise: [Implementing Bucket Sort](https://git.generalassemb.ly/modular-curriculum-all-courses/distribution-sorting-algorithms-starter-code)
+2. Exercise: [Implementing Bucket Sort](https://github.com/ga-curriculum/distribution-sorting-algorithms-starter-code)
 
 ## Solution Code
 
